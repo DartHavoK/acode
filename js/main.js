@@ -8,7 +8,7 @@ jQuery(document).ready(function ($) {
 //for Preloader
 
     $(window).load(function () {
-        $("#loading").fadeOut(50);
+        $("#loading").fadeOut(2);
     });
 
 
